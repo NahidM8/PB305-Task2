@@ -1,0 +1,15 @@
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\bin\Debug\net8.0\Pb305_Variables.exe
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\bin\Debug\net8.0\Pb305_Variables.deps.json
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\bin\Debug\net8.0\Pb305_Variables.runtimeconfig.json
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\bin\Debug\net8.0\Pb305_Variables.dll
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\bin\Debug\net8.0\Pb305_Variables.pdb
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\Pb305_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\Pb305_Variables.AssemblyInfoInputs.cache
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\Pb305_Variables.AssemblyInfo.cs
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\Pb305_Variables.csproj.CoreCompileInputs.cache
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\Pb305_Variables.sourcelink.json
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\Pb305_Variables.dll
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\refint\Pb305_Variables.dll
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\Pb305_Variables.pdb
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\Pb305_Variables.genruntimeconfig.cache
+C:\Users\Nahid\Desktop\Pb305\Pb305_Variables\Pb305_Variables\obj\Debug\net8.0\ref\Pb305_Variables.dll
